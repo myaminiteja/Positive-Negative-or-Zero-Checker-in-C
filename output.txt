@@ -1,0 +1,16 @@
+===== Positive, Negative or Zero Checker =====
+
+Example 1:
+
+Enter a number: 25
+25 is a positive number.
+
+Example 2:
+
+Enter a number: -10
+-10 is a negative number.
+
+Example 3:
+
+Enter a number: 0
+The number is zero.
